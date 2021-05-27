@@ -1,4 +1,4 @@
-# projeto_perguntas
+# perguntas
 
 Creating my first project Flutter! 
 The project is a game the questions and answers. Your level show in display at the end of the questions. 
